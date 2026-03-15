@@ -1,2 +1,15 @@
-# Food-Donation-Platform
-A web-based Food Donation Platform that connects food donors with NGOs and people in need. The system allows users to donate surplus food, request food, and manage donations efficiently to reduce food waste.
+Food Donation Platform
+
+This project is a web-based platform that connects food donors with NGOs to reduce food waste.
+
+Technologies Used:
+HTML
+CSS
+JavaScript
+MySQL
+
+Features:
+User registration
+Food donation requests
+NGO management
+Food distribution tracking
